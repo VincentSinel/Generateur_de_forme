@@ -1,9 +1,15 @@
 ╔═══════════════════════════════════════════╗
-║ Generateur de forme             V1.1      ║
+║ Generateur de forme             V1.2      ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
 ╠═══════════════════════════════╗
-║Derniere Mise a jour : V. 1.1  ║
+║Derniere Mise a jour : V. 1.2  ║
+╠═══════════════════════════════╝
+║
+║	- Ajout de la mise a jour automatique.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.1  ║
 ╠═══════════════════════════════╝
 ║
 ║	- Ajout du menu Option (Par encore pour l'interface)

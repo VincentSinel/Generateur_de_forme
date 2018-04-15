@@ -1,0 +1,121 @@
+╔═══════════════════════════════════════════╗
+║ Generateur de forme             V1.1      ║
+║ Sinel V.  2018                            ║
+╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.1  ║
+╠═══════════════════════════════╝
+║
+║	- Ajout du menu Option (Par encore pour l'interface)
+║	- Ajout du menu A propos
+║	- Lors de la creation de point dans le plan il est desormais possible de faire apparaitre les trait de position
+║	- Il est desormais possible de choisir l'affichage de la hauteur dans la sphere
+║	- La génération du numéro des section est desormais possible depuis le cercle de fraction
+║
+║	Correctif Cercle/Carre de Fraction :
+║ 	- Le changement des parametre de texte principaux ne reinitialise plus l'importance des sections
+║	- Les parametres secondaires des sections sont maintenant mise a jour lors de la modification des parametres principaux
+║	- La modification du type de texte est maintenant stable.
+║	- La modification de la taille/police/couleur du texte principal prend desormais le dessus sur les modification secondaire
+║	- La selection du texte independament de la section de texte est corrige
+║	- La position des textes est desormais relative au centre de la section.
+║	- Grace a la position relaive la modification de l'importance des sections ne modifie plus la position du texte associe.
+║
+║	Autre correctif :
+║	- Les objet generer par l'utilisateur sont desormais automatiquement selectionne (Meilleur visibilite)
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0  ║
+╠═══════════════════════════════╝
+║
+║ VISIBLE
+║	- Interface totalement revue.
+║ 	- Axe et Repere : Parametre supplementaire pour la taille des segments sur l'axe et la taille de la fleche.
+║	- Nombre de sommet polygone variable
+║	- Codage independant des sommets pour les polygones
+║	- Codage independant des segments pour les polygones
+║	- Couleur, Epaisseur et type des sommets et segements independant pour les polygones
+║	- Nom des sommets automatiques pour les polygones
+║	- Optimisation de la methode de dessin.
+║	- Nombreus nouveaux parametre de dessin pour l'ensemble des figure
+║
+║ INVISIBLE
+║	- Base Graphes.
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 0.9  ║
+╠═══════════════════════════════╝
+║
+║ VISIBLE
+║ 	- Partie Polygone operationnel.
+║ 	- Possible de generer des polygone avec un nombre de cote defini, de generer de l'auto codage. De choisir le type de ligne de contour
+║	- Possibilite de deplacer les sommets pour deformer la figure.
+║	- Bugs de selection et deplacement des sommet et segment corriger.
+║	- Nouveaux style de trait, a main lever.
+║
+║ INVISIBLE
+║	- Base Graphes.
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 0.8  ║
+╠═══════════════════════════════╝
+║
+║ VISIBLE
+║ 	- Polygone en route.
+║ 	- Possible de generer des polygone avec un nombre de cote defini
+║	- Il y a encore de nombreux bugs mais il est possible de deplacer les sommet et de mettre du codage, du texte et des points a ceux-ci
+║	- Des bugs sur le menu d'option des elements flottant sont a corriger.
+║
+║ INVISIBLE
+║	- Base Codages des segments.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 0.7  ║
+╠═══════════════════════════════╝
+║
+║ VISIBLE
+║ 	- Ajout de nouveaux elements flottants (Point Axe et Point Repere)
+║ 	- Il est maintenant possible de changer les elements flottants autogenerer
+║
+║ INVISIBLE
+║	- Base Polygone.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 0.6  ║
+╠═══════════════════════════════╝
+║
+║ VISIBLE
+║ 	- Ajout de la creation d'elements flottants (Texte et Fraction)
+║ 	- Possibilite de changer les proportions des differentes sections du cercle de fraction de manieres independantes (section "Avancee" des parametres secondaires)
+║
+║ INVISIBLE
+║	- Base PointAxe object et premier test effectue.
+║   - Systeme Drag and Drop OK
+║
+╠═══════════╗
+║A Venir :  ║
+╠═══════════╝
+║
+║   - Partie Sphere :
+║			- Affichage d'un rayon
+║
+║   - Partie Cone :
+║			- Amélioration de l'ombrage
+║
+║	- Partie Polygone :
+║			- Nom des segments automatiques
+║			- Separation cas du triangle : 
+║					- Affichage hauteur independant
+║					- Affichage des prolongement de segment
+║					- Affichage mediane independant (codage avec tout les parametre habituel)
+║					- Affichage mediatrice idependant (idem)
+║					- Affichage des points particuliers
+║	- Partie Graphe:
+║			- Nombre de Bulle
+║			- Matrice des liaison
+║			- Proprietes des bulle independante
+║			- Proprietes des lien independant
+║
+╠══════════════════════╗
+║Contact :             ║
+║    Sinel Vincent     ║
+║vincentsinel@gmail.com║
+╚══════════════════════╝

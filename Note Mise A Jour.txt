@@ -97,9 +97,9 @@
 ║	- Base PointAxe object et premier test effectue.
 ║	- Systeme Drag and Drop OK
 ║
-╠═══════════╗
-║A Venir :  ║
-╠═══════════╝
+╠════════════════════════════════╗
+║A Venir  (Fix et nouveautes) :  ║
+╠════════════════════════════════╝
 ║
 ║	- Partie Sphere :
 ║			- Affichage d'un rayon

@@ -20,7 +20,7 @@
 ║	- La génération du numéro des section est desormais possible depuis le cercle de fraction
 ║
 ║	Correctif Cercle/Carre de Fraction :
-║ 	- Le changement des parametre de texte principaux ne reinitialise plus l'importance des sections
+║	- Le changement des parametre de texte principaux ne reinitialise plus l'importance des sections
 ║	- Les parametres secondaires des sections sont maintenant mise a jour lors de la modification des parametres principaux
 ║	- La modification du type de texte est maintenant stable.
 ║	- La modification de la taille/police/couleur du texte principal prend desormais le dessus sur les modification secondaire
@@ -37,7 +37,7 @@
 ║
 ║ VISIBLE
 ║	- Interface totalement revue.
-║ 	- Axe et Repere : Parametre supplementaire pour la taille des segments sur l'axe et la taille de la fleche.
+║	- Axe et Repere : Parametre supplementaire pour la taille des segments sur l'axe et la taille de la fleche.
 ║	- Nombre de sommet polygone variable
 ║	- Codage independant des sommets pour les polygones
 ║	- Codage independant des segments pour les polygones
@@ -53,8 +53,8 @@
 ╠═══════════════════════════════╝
 ║
 ║ VISIBLE
-║ 	- Partie Polygone operationnel.
-║ 	- Possible de generer des polygone avec un nombre de cote defini, de generer de l'auto codage. De choisir le type de ligne de contour
+║	- Partie Polygone operationnel.
+║	- Possible de generer des polygone avec un nombre de cote defini, de generer de l'auto codage. De choisir le type de ligne de contour
 ║	- Possibilite de deplacer les sommets pour deformer la figure.
 ║	- Bugs de selection et deplacement des sommet et segment corriger.
 ║	- Nouveaux style de trait, a main lever.
@@ -66,8 +66,8 @@
 ╠═══════════════════════════════╝
 ║
 ║ VISIBLE
-║ 	- Polygone en route.
-║ 	- Possible de generer des polygone avec un nombre de cote defini
+║	- Polygone en route.
+║	- Possible de generer des polygone avec un nombre de cote defini
 ║	- Il y a encore de nombreux bugs mais il est possible de deplacer les sommet et de mettre du codage, du texte et des points a ceux-ci
 ║	- Des bugs sur le menu d'option des elements flottant sont a corriger.
 ║
@@ -79,8 +79,8 @@
 ╠═══════════════════════════════╝
 ║
 ║ VISIBLE
-║ 	- Ajout de nouveaux elements flottants (Point Axe et Point Repere)
-║ 	- Il est maintenant possible de changer les elements flottants autogenerer
+║	- Ajout de nouveaux elements flottants (Point Axe et Point Repere)
+║	- Il est maintenant possible de changer les elements flottants autogenerer
 ║
 ║ INVISIBLE
 ║	- Base Polygone.
@@ -90,21 +90,21 @@
 ╠═══════════════════════════════╝
 ║
 ║ VISIBLE
-║ 	- Ajout de la creation d'elements flottants (Texte et Fraction)
-║ 	- Possibilite de changer les proportions des differentes sections du cercle de fraction de manieres independantes (section "Avancee" des parametres secondaires)
+║	- Ajout de la creation d'elements flottants (Texte et Fraction)
+║	- Possibilite de changer les proportions des differentes sections du cercle de fraction de manieres independantes (section "Avancee" des parametres secondaires)
 ║
 ║ INVISIBLE
 ║	- Base PointAxe object et premier test effectue.
-║   - Systeme Drag and Drop OK
+║	- Systeme Drag and Drop OK
 ║
 ╠═══════════╗
 ║A Venir :  ║
 ╠═══════════╝
 ║
-║   - Partie Sphere :
+║	- Partie Sphere :
 ║			- Affichage d'un rayon
 ║
-║   - Partie Cone :
+║	- Partie Cone :
 ║			- Amélioration de l'ombrage
 ║
 ║	- Partie Polygone :

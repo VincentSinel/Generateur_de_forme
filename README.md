@@ -31,3 +31,8 @@ Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe q
 
 This project is licensed under License Creative Commons - see the [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/) for details
 
+## Contact
+
+Pour tout bug, remarque, suggestion n'hésitez pas à me contacter :
+vsprogramme.contact@gmail.com
+

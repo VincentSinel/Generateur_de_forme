@@ -29,7 +29,7 @@ Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe q
 
 ## License
 
-This project is licensed under License Creative Commons - see the [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/) for details<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/License%20Creative%20Commons.png" width="88" style="margin:0px 70px" alt="VS Programme"></a>
+This project is licensed under License Creative Commons - see the [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/) for details<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/License%20Creative%20Commons.png" width="88" style="margin:0px 30px" alt="VS Programme"></a>
 
 ## Contact
 

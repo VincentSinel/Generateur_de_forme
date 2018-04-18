@@ -120,8 +120,8 @@
 ║			- Proprietes des bulle independante
 ║			- Proprietes des lien independant
 ║
-╠══════════════════════╗
-║Contact :             ║
-║    Sinel Vincent     ║
-║vincentsinel@gmail.com║
-╚══════════════════════╝
+╠═════════════════════════════╗
+║Contact :                    ║
+║    Sinel Vincent            ║
+║vsprogramme.contact@gmail.com║
+╚═════════════════════════════╝

@@ -1,7 +1,14 @@
 ╔═══════════════════════════════════════════╗
-║ Generateur de forme             V1.2      ║
+║ Generateur de forme             V1.3      ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.3  ║
+╠═══════════════════════════════╝
+║
+║	- Correction d'un bug menu pour la selection de sommet de polygone.
+║	- Menu Option complet
+║
 ╠═══════════════════════════════╗
 ║Derniere Mise a jour : V. 1.2  ║
 ╠═══════════════════════════════╝

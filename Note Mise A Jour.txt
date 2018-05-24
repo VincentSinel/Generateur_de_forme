@@ -1,9 +1,16 @@
 ╔═══════════════════════════════════════════╗
-║ Generateur de forme             V1.4      ║
+║ Generateur de forme             V1.5      ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
 ╠═══════════════════════════════╗
-║Derniere Mise a jour : V. 1.4  ║
+║Derniere Mise a jour : V. 1.5  ║
+╠═══════════════════════════════╝
+║
+║	- Ajout de la création de droite particulière du triangle dans la section polygone.
+║	  Création de Hauteur, Médiane et Bissectrice.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.4  ║
 ╠═══════════════════════════════╝
 ║
 ║	- Ajout d'option de position des textes pour les reperes.

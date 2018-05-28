@@ -1,9 +1,21 @@
 ╔═══════════════════════════════════════════╗
-║ Generateur de forme             V1.5      ║
+║ Generateur de forme             V1.6      ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
 ╠═══════════════════════════════╗
-║Derniere Mise a jour : V. 1.5  ║
+║Derniere Mise a jour : V. 1.6  ║
+╠═══════════════════════════════╝
+║
+║	- Ajout de la création de médiatrice à un segment.
+║	- Optimisation de la méthode de dessin (seule les parties concernés sont désormais redessinés et non l'intégralité de la figure)
+║	- La désactivation du texte d'un secteur de disque de fraction réinitialise sa place (au centre du secteur)
+║	- Réadaptation du menu des droite particulière pour plus de lisibilité.
+║	- Optimisation du drag and drop avec un taux de rafraichissement plus bas
+║	- Choix tu taux de rafraichissement de la figure pour le drag and drop ajouté aux options (permet de diminuer la latence sur certain PC)
+║	- Correction du bug lors du drag and drop. Lorsqu'un objet était déjà selectionné lors du drag and drop d'un autre object les deux se retrouvé selectionné.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.5  ║
 ╠═══════════════════════════════╝
 ║
 ║	- Ajout de la création de droite particulière du triangle dans la section polygone.
@@ -116,7 +128,9 @@
 ║ INVISIBLE
 ║	- Base PointAxe object et premier test effectue.
 ║	- Systeme Drag and Drop OK
-║
+╠═══════════════════════════════╗
+║Version antérieur non publié   ║
+╠═══════════════════════════════╝
 ╠════════════════════════════════╗
 ║A Venir  (Fix et nouveautes) :  ║
 ╠════════════════════════════════╝
@@ -128,13 +142,12 @@
 ║			- Amélioration de l'ombrage
 ║
 ║	- Partie Polygone :
+║			- Bissectrice / Médianne / Médiatrice Plus d'option et codage
 ║			- Nom des segments automatiques
 ║			- Separation cas du triangle : 
-║					- Affichage hauteur independant
-║					- Affichage des prolongement de segment
-║					- Affichage mediane independant (codage avec tout les parametre habituel)
-║					- Affichage mediatrice idependant (idem)
 ║					- Affichage des points particuliers
+║					- Cercle inscrit /circonscrit
+║
 ║	- Partie Graphe:
 ║			- Nombre de Bulle
 ║			- Matrice des liaison

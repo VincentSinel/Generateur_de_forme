@@ -1,9 +1,15 @@
 ╔═══════════════════════════════════════════╗
-║ Generateur de forme             V1.6      ║
+║ Generateur de forme             V1.7      ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
 ╠═══════════════════════════════╗
-║Derniere Mise a jour : V. 1.6  ║
+║Derniere Mise a jour : V. 1.7  ║
+╠═══════════════════════════════╝
+║
+║	- Correction de bug.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.6  ║
 ╠═══════════════════════════════╝
 ║
 ║	- Ajout de la création de médiatrice à un segment.

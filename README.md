@@ -21,7 +21,8 @@ Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe q
 
 ## Librairie
 
-* [Wpf Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour les différent outils Xaml
+* [Xceed Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour les différent outils Xaml
+* [AutoUpdater.Net](https://github.com/ravibpatel/AutoUpdater.NET) - Pour la mise à jour automatique
 
 ## Version
 

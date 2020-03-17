@@ -17,7 +17,7 @@ Petit logiciel à destination d'enseignants en mathématiques. L'objectif est d'
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clè USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clè USB.
 
 ## Librairie
 

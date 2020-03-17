@@ -1,15 +1,15 @@
 # Generateur de forme <a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Petit logiciel à destination d'enseignants en mathématiques. L'objectif est d'avoir une petit logiciel permettant de générer des forme utile pour l'enseignement de manière rapide et simple. Le logiciel offre de nombreuse possibilité de paramétrage et de forme différentes.
+Petit logiciel à destination d'enseignants en mathématiques. L'objectif est d'avoir un petit logiciel permettant de générer des formes utiles pour l'enseignement de manière rapide et simple. Le logiciel offre de nombreuses possibilités de paramétrage et de formes différentes.
 
 ## Forme
 
  - Cercle partitionné ou encore cercle de fraction
  - Carré partitionné
  - Axe gradué
- - Repére
+ - Repère
  - Polygone
- - Pave et Cube
+ - Pavé et Cube
  - Cylindre
  - Cône
  - Pyramide régulière
